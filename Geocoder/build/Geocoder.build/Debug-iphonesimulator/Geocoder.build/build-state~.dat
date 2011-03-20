@@ -1,0 +1,532 @@
+TGeocoder
+v7
+r0
+t322285655.151918
+cCheck dependencies
+cProcessInfoPlistFile /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Info.plist Geocoder-Info.plist
+cCompileXIB /Users/Randall/Desktop/Geocoder/MainWindow.xib
+cCompileXIB /Users/Randall/Desktop/Geocoder/GeocoderViewController.xib
+cProcessPCH /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch.gch Geocoder_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/main.o /Users/Randall/Desktop/Geocoder/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderAppDelegate.o /Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderViewController.o /Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/Geocoder.o /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+SBJSON.o /Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJSON.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonBase.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonParser.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonWriter.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+URLEncoding.o /Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Randall/Desktop/Geocoder/Classes/Geocoder.h
+c000000004D8578C000000000000001EB
+t1300592832
+s491
+i<Foundation/Foundation.h>
+i<MapKit/MapKit.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m
+c000000004D85789E0000000000000985
+t1300592798
+s2437
+i"Geocoder.h"
+i"NSString+URLEncoding.h"
+i"JSON.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.h
+c000000004D85767300000000000001E6
+t1300592243
+s486
+i<UIKit/UIKit.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m
+c000000004D8576730000000000000A9B
+t1300592243
+s2715
+i"GeocoderAppDelegate.h"
+i"GeocoderViewController.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.h
+c000000004D85767300000000000000F2
+t1300592243
+s242
+i<UIKit/UIKit.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m
+c000000004D85781000000000000006C3
+t1300592656
+s1731
+i"GeocoderViewController.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/JSON.h
+c000000004D46E1F000000000000008F9
+t1296490992
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.h
+c000000004D46E1F00000000000000A01
+t1296490992
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m
+c000000004D46E1F0000000000000089E
+t1296490992
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.h
+c000000004D46E1F00000000000000916
+t1296490992
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m
+c000000004D46E1F0000000000000087D
+t1296490992
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.h
+c000000004D46E1F00000000000000AED
+t1296490992
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m
+c000000004D46E1F00000000000001ABC
+t1296490992
+s6844
+i"SBJSON.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.h
+c000000004D46E1F00000000000000B82
+t1296490992
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m
+c000000004D46E1F00000000000000AC1
+t1296490992
+s2753
+i"SBJsonBase.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.h
+c000000004D46E1F00000000000000C0B
+t1296490992
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m
+c000000004D46E1F000000000000036D0
+t1296490992
+s14032
+i"SBJsonParser.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.h
+c000000004D46E1F00000000000001140
+t1296490992
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m
+c000000004D46E1F00000000000001F26
+t1296490992
+s7974
+i"SBJsonWriter.h"
+
+N/Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.h
+c000000004D45CDF600000000000005A1
+t1296420342
+s1441
+i<Foundation/Foundation.h>
+
+N/Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m
+c000000004D45CDF60000000000000C5E
+t1296420342
+s3166
+i"NSString+URLEncoding.h"
+
+N/Users/Randall/Desktop/Geocoder/GeocoderViewController.xib
+c000000004D8577770000000000004C8D
+t1300592503
+s19597
+
+N/Users/Randall/Desktop/Geocoder/Geocoder_Prefix.pch
+c000000004D85767300000000000000B9
+t1300592243
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Randall/Desktop/Geocoder/MainWindow.xib
+c000000004D8576730000000000004E35
+t1300592243
+s20021
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app
+t2
+s0
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app.dSYM
+t2
+s0
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Geocoder
+t2
+s0
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/GeocoderViewController.nib
+t1300592853
+s1720
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Info.plist
+t1300592852
+s595
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/MainWindow.nib
+t1300592853
+s1125
+
+N/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/PkgInfo
+t1300592852
+s8
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/Geocoder.LinkFileList
+c000000004D8578D4000000000000056A
+t1300592852
+s1386
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/Geocoder.o
+t2
+s0
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderAppDelegate.o
+t1300592854
+s50940
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderViewController.o
+t2
+s0
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSObject+SBJSON.o
+t1300592854
+s8288
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+SBJSON.o
+t1300592854
+s8208
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+URLEncoding.o
+t1300592855
+s10064
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJSON.o
+t1300592854
+s20072
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonBase.o
+t1300592854
+s13204
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonParser.o
+t1300592855
+s35872
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonWriter.o
+t1300592855
+s25544
+
+N/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/main.o
+t1300592854
+s6288
+
+N/Users/Randall/Desktop/Geocoder/main.m
+c000000004D857673000000000000016B
+t1300592243
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch.gch
+t1300592854
+s15453392
+
+NGeocoder-Info.plist
+c000000004D857673000000000000038D
+t1300592243
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322285652#322285652#0(0"0(0#1#0"8686718720#0"0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/Geocoder.o /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.686019
+e322285654.876904
+r0
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/Geocoder.o
+x/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:9:
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.h:13: error: expected ';' before '(' token
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m: In function '-[Geocoder connectionDidFinishLoading:]':
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: '-locationFoundWithMapRegion:' not found in protocol(s)
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: no '-locationFoundWithMapRegion:' method found
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: (Messages without a matching method signature
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: will be assumed to return 'id' and accept
+o/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: '...' as arguments.)
+lSLF07#2@58"Compile /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m322285654#322285654#0(807"In file included from /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:9:/Users/Randall/Desktop/Geocoder/Classes/Geocoder.h:13: error: expected ';' before '(' token/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m: In function '-[Geocoder connectionDidFinishLoading:]':/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: '-locationFoundWithMapRegion:' not found in protocol(s)/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: no '-locationFoundWithMapRegion:' method found/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: (Messages without a matching method signature/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: will be assumed to return 'id' and accept/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m:69: warning: '...' as arguments.)4(4@29"Expected ';' before '(' token322285654#76#92#2(7@72"In file included from /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m322285654#18446744073709551615#0#0(6@50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m322285598#9#0#9#0#0"0(13@83"Expected ';' before '(' token in /Users/Randall/Desktop/Geocoder/Classes/Geocoder.h322285654#18446744073709551615#0#0(6@50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.h322285632#13#0#13#0#0"0(6@50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.h322285632#13#0#13#0#19"expected * before *0(22@55"'-locationFoundWithMapRegion:' not found in protocol(s)322285654#275#120#0(6@50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m322285598#69#0#69#0#28"'*' not found in protocol(s)0(22@46"No '-locationFoundWithMapRegion:' method found322285654#395#111#0(6@50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m322285598#69#0#69#0#19"no '*' method found0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322285654#506#110#0(6@50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m322285598#69#0#69#0#0"0(0#0#50"/Users/Randall/Desktop/Geocoder/Classes/Geocoder.m8687621952#1873"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/Geocoder.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/Geocoder.o1#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderAppDelegate.o /Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.503457
+e322285654.685914
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderAppDelegate.o
+x/Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m322285654#322285654#0(0"0(0#0#61"/Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m8683339232#1895"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/GeocoderAppDelegate.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderAppDelegate.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderViewController.o /Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.674843
+e322285654.745248
+r0
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderViewController.o
+x/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m: In function '-[GeocoderViewController searchBarSearchButtonClicked:]':
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: 'Geocoder' undeclared (first use in this function)
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: (Each undeclared identifier is reported only once
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: for each function it appears in.)
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: 'geocoder' undeclared (first use in this function)
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m: At top level:
+o/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:73: error: expected ':' before '-' token
+o{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+lSLF07#2@72"Compile /Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m322285654#322285654#0(1412"/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m: In function '-[GeocoderViewController searchBarSearchButtonClicked:]':/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: 'Geocoder' undeclared (first use in this function)/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: (Each undeclared identifier is reported only once/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: for each function it appears in.)/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:63: error: 'geocoder' undeclared (first use in this function)/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m: At top level:/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m:73: error: expected ':' before '-' token{standard input}:56:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:56:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:52:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:52:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_04(4@50"'Geocoder' undeclared (first use in this function)322285654#137#127#0(6@64"/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m322285456#63#0#63#0#43"'*' undeclared (first use in this function)0(4@50"'geocoder' undeclared (first use in this function)322285654#500#127#0(6@64"/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m322285456#63#0#63#0#43"'*' undeclared (first use in this function)0(23@13"At top level:322285654#627#80#0(6@64"/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m322285456#0#0#0#0#0"0(4@29"Expected ':' before '-' token322285654#707#106#0(6@64"/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m322285456#73#0#73#0#19"expected * before *0(0#0#64"/Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m8688324128#1901"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/GeocoderViewController.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/GeocoderViewController.o1#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSObject+SBJSON.o /Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.745383
+e322285654.810194
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m322285654#322285654#0(0"0(0#0#62"/Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m8686124096#1892"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/JSON/NSObject+SBJSON.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+SBJSON.o /Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.810952
+e322285654.893376
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m322285654#322285654#0(0"0(0#0#62"/Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m8683904480#1892"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/JSON/NSString+SBJSON.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+URLEncoding.o /Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285655.095621
+e322285655.151818
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+URLEncoding.o
+x/Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m322285655#322285655#0(0"0(0#0#62"/Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m8683539616#1897"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/NSString+URLEncoding.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/NSString+URLEncoding.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJSON.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.877014
+e322285654.966557
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJSON.o
+x/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m322285654#322285654#0(0"0(0#0#53"/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m8689299232#1874"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJSON.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonBase.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.893481
+e322285654.965281
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonBase.o
+x/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m322285654#322285654#0(0"0(0#0#57"/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m8688731424#1882"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonBase.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonParser.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.965405
+e322285655.095517
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonParser.o
+x/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m322285654#322285655#0(0"0(0#0#59"/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m8688034336#1886"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonParser.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonWriter.o /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.966602
+e322285655.098168
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m322285654#322285655#0(0"0(0#0#59"/Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m8687687296#1886"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/Classes/JSON/SBJsonWriter.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/main.o /Users/Randall/Desktop/Geocoder/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285654.501935
+e322285654.674739
+r1
+xCompileC
+xbuild/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/main.o
+x/Users/Randall/Desktop/Geocoder/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/Randall/Desktop/Geocoder/main.m322285654#322285654#0(0"0(0#0#38"/Users/Randall/Desktop/Geocoder/main.m8687339904#1857"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch -c /Users/Randall/Desktop/Geocoder/main.m -o /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Randall/Desktop/Geocoder/GeocoderViewController.xib
+s322285652.686220
+e322285653.269129
+r1
+xCompileXIB
+x/Users/Randall/Desktop/Geocoder/GeocoderViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB GeocoderViewController.xib322285652#322285653#0(756"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#58"/Users/Randall/Desktop/Geocoder/GeocoderViewController.xib8630592032#574"    cd /Users/Randall/Desktop/Geocoder    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/GeocoderViewController.nib /Users/Randall/Desktop/Geocoder/GeocoderViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Randall/Desktop/Geocoder/MainWindow.xib
+s322285652.684294
+e322285653.251193
+r1
+xCompileXIB
+x/Users/Randall/Desktop/Geocoder/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322285652#322285653#0(0"0(0#0#46"/Users/Randall/Desktop/Geocoder/MainWindow.xib8638270464#550"    cd /Users/Randall/Desktop/Geocoder    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/MainWindow.nib /Users/Randall/Desktop/Geocoder/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app.dSYM /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Geocoder
+r0
+
+CLd /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Geocoder normal i386
+r0
+
+CProcessInfoPlistFile /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Info.plist Geocoder-Info.plist
+s322285652.677768
+e322285652.684194
+r1
+xProcessInfoPlistFile
+x/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Info.plist
+xGeocoder-Info.plist
+lSLF07#2@27"Process Geocoder-Info.plist322285652#322285652#0(0"0(0#0#51"/Users/Randall/Desktop/Geocoder/Geocoder-Info.plist8679735200#461"    cd /Users/Randall/Desktop/Geocoder    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Geocoder-Info.plist -genpkginfo /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app/Info.plist0#
+
+CProcessPCH /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch.gch Geocoder_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322285653.269252
+e322285654.501785
+r1
+xProcessPCH
+x/var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch.gch
+xGeocoder_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Geocoder_Prefix.pch322285653#322285654#0(0"0(0#0#51"/Users/Randall/Desktop/Geocoder/Geocoder_Prefix.pch8687220192#1755"    cd /Users/Randall/Desktop/Geocoder    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-generated-files.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-own-target-headers.hmap -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-all-target-headers.hmap -iquote /Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/Geocoder-project-headers.hmap -F/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator -I/Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources/i386 -I/Users/Randall/Desktop/Geocoder/build/Geocoder.build/Debug-iphonesimulator/Geocoder.build/DerivedSources -c /Users/Randall/Desktop/Geocoder/Geocoder_Prefix.pch -o /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/Geocoder_Prefix-fjhqalaxpycjrkanjgcxfjlrdbmf/Geocoder_Prefix.pch.gch0#
+
+CTouch /Users/Randall/Desktop/Geocoder/build/Debug-iphonesimulator/Geocoder.app
+r0
+
